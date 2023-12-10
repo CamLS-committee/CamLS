@@ -1,26 +1,28 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+title: CamLS
+logo: logo.jpg # You can add own logo.
+description: Cambridge Life Science Network
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: CamLS
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: Hello, We are CamLS -<br /><strong>Cambridge Life Science Network</strong>
+  bio: <strong>Seminars</strong>, <strong>Career talks</strong>, <strong>Networking events</strong>.
+      We are a student society at University of Cambridge. We support Cambridge life science students.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+twitter: https://twitter.com/camls_official/ # Add your Twitter handle
+#facebook: https://facebook.com/ # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/camls_official/ # Add your Instagram handle
+#pinterest: https://www.linkedin.com/company/cambridge-life-science-network-camls/ # Add your Pinterest handle
+linkedin: https://www.linkedin.com/company/cambridge-life-science-network-camls/
 
 
 #-------------------------------

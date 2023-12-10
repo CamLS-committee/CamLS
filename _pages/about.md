@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About us
+permalink: /aboutUs/
 image: 01.jpg
 ---
 

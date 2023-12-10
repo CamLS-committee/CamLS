@@ -1,4 +1,5 @@
-Zolan - Modern & Minimal Theme for Jekyll
+Cambridge Life Science Network webpage built based on Zolan Jekyll theme.
+
 ======
 Zolan is a minimal blog theme for Jekyll.
 
@@ -6,16 +7,18 @@ Zolan is a minimal blog theme for Jekyll.
 
 Table of Contents
 -----------------
-*   [Features](#features)
-*   [Demo](#demo)
-*   [Deployment](#deployment)
-*   [Posts](#posts)
-*   [Disqus Comments](#DisqusComments)
-*   [Instagram](#instagram)
-*   [Google Analytics](#GoogleAnalytics)
-*   [Update favicon](#UpdateFavicon)
-*   [Credits](#Credits)
-*   [Support](#Support)
+- [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Demo](#demo)
+  - [Deployment](#deployment)
+  - [Posts](#posts)
+  - [Disqus Comments](#disqus-comments)
+  - [Instagram](#instagram)
+  - [Google Analytics](#google-analytics)
+  - [Update favicon](#update-favicon)
+  - [Credits](#credits)
+  - [License](#license)
+  - [Support](#support)
 
 * * *
 
